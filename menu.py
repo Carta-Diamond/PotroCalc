@@ -1,3 +1,8 @@
+from multiplication import Multiplication
+from division import division
+from addition import addition
+from rest import rest
+
 print("Bienvenido al menú de opciones")
 print("1. Multiplicar")
 print("2. Dividir")

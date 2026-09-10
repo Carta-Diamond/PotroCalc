@@ -1,4 +1,5 @@
-from division import division
+from addition import addition
 
-def test_division():
-    assert division(6,0) == "Error: Division by zero is not allowed."
+def test_addition():
+    assert addition(4,6) == 10
+

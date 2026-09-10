@@ -1,1 +1,3 @@
-/venvt
+/venv
+**/__pycache__/
+*.pyc
